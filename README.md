@@ -3,6 +3,8 @@ This is a program called Triangle tracker that enables a user to input values an
  TRIANGLE TRACKER
 #### This is a triangle tracker, 22/03/2019
 #### By **Charles Maina**
+## Demo
+Here is a live working demo of the program https://charlesmurage.github.io/Triangle-T/
 ## Description
 This program is called the triangle tracker. Its main purpose is to enable the user to know different triangles. How this program works is it allows the user to enter values, it calculates the values and tells you which type of triangl it is.
 ## Setup/Installation Requirements
