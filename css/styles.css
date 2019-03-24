@@ -23,3 +23,8 @@ img{
     height: 250x;
     float: right;
 }
+
+span{
+    font-style: italic;
+    color: blue;
+}
