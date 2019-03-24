@@ -11,3 +11,12 @@ function track() {
         else if (length1 === length2 || length1 === length3 || length2 === length3) {
           alert("It is an isosceles triangle");
         }
+        else if (length1 != length2 && length2 != length3 && length1 != length3) {
+            alert("It is a scalene triangle");
+          }
+        }
+      
+        else {
+          alert("Not a triangle");
+        }
+      }
