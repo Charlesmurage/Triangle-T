@@ -8,7 +8,7 @@ Here is a live working demo of the program https://charlesmurage.github.io/Trian
 ## Description
 This program is called the triangle tracker. Its main purpose is to enable the user to know different triangles. How this program works is it allows the user to enter values, it calculates the values and tells you which type of triangl it is.
 ## BDD
-| Behaviour                         | Input                           | Output
+  ## Behaviour                      | Input                           | Output
 |__________________________________ |________________________________ |_________________________________________
 | -All sides are equal.             | sideA === SideB === sideC       | Equilateral Triangle.
 | -Two sides are exactly equal.     | sideA === SideB!= sideC         | Isosceles Triangle.
